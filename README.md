@@ -1,7 +1,6 @@
-# RDKit Tutorials
-[![Build status](https://travis-ci.org/rdkit/rdkit-tutorials.svg)](https://travis-ci.org/rdkit/rdkit-tutorials)
+# Eye movement(smooth pursuit) classifiers
 
-The idea of this project is to provide small, directly useful
-tutorials on using the [RDKit](http://www.rdkit.org) for those who would like to be trained as a Cheminformatics.
+This is the implementation of the machine learning approach for eye movement classification bwtween healthy control(HC) and parkinson(PK).
+
 
 
