@@ -11,10 +11,10 @@ The dataset used for training and evaluation consists of eye movement data from 
 
 # Requirements
 Python 3.x   
-NumPy
-Pandas
-Scikit-learn
-Jupyter Notebook (optional, for running the provided example notebooks)
+NumPy   
+Pandas    
+Scikit-learn    
+Jupyter Notebook (optional, for running the provided example notebooks)     
 
 
 
