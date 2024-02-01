@@ -1,6 +1,6 @@
 # Eye movement(smooth pursuit) classifiers
 
-This repository contains the implementation of a machine learning approach for classifying eye movements between healthy control (HC) and Parkinson's disease (PK) individuals based on different degrees of eye movements.
+This repository contains the implementation of a machine learning approach for classifying eye movements between healthy control (HC) and Parkinson's disease (PD) individuals based on different degrees of eye movements.
 
 # Overview
 
